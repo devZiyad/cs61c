@@ -29,7 +29,7 @@ If you have **original content from CS61C Spring 2015** that is missing from thi
 - If you are an instructor or UC Berkeley staff member and would like specific content removed, please [open an issue](#).
 
 ## 🔗 How to Access the Archive
-Visit **[devziyad.xyz/cs61c](https://devziyad.xyz/cs61c)** to browse the archived materials.
+Visit **[devziyad.me/cs61c](https://devziyad.me/cs61c)** to browse the archived materials.
 
 ## 🔗 Related Resources
 - **Official CS61C Website** (Check for the latest course materials):  
